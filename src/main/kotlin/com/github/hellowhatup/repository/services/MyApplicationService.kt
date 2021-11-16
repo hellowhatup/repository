@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.hellowhatup.repository.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.hellowhatup.repository.MyBundle
 
 class MyApplicationService {
 
